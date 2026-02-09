@@ -1,13 +1,13 @@
-# 📊 Data Visualization Project
-This project contains Python code for creating charts and visualizing data using popular libraries like Matplotlib and Seaborn.
+📊 Data Visualization Portfolio
+📁 Projects
+1. Data Charting
+Basic data visualization with Matplotlib/Seaborn.
 
-What's Inside?
-Basic data plotting (line, bar, scatter plots)
+2. Apple Stock Time Series
+Apple Inc. historical stock prices visualization and analysis.
 
-Customizable chart styles and colors
+3. Interactive Book Library Visualization
+Interactive web visualizations for book data using Bokeh.
 
-Example datasets for testing
-
-Clean and simple code structure
-
-Easy to use for anyone learning data visualization or needing quick chart templates.
+🛠️ Tech Stack
+Python · Pandas · Matplotlib/Seaborn · Bokeh · Jupyter
