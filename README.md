@@ -1,5 +1,13 @@
-# Welcome to GitHub Desktop!
+# 📊 Data Visualization Project
+This project contains Python code for creating charts and visualizing data using popular libraries like Matplotlib and Seaborn.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+What's Inside?
+Basic data plotting (line, bar, scatter plots)
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Customizable chart styles and colors
+
+Example datasets for testing
+
+Clean and simple code structure
+
+Easy to use for anyone learning data visualization or needing quick chart templates.
